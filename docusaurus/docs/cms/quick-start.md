@@ -10,7 +10,7 @@ tags:
  - collection type
  - Content Manager
  - Strapi Cloud
----
+--- 
 
 import InstallPrerequisites from '/docs/snippets/installation-prerequisites.md'
 
